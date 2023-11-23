@@ -131,6 +131,10 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ## Tools and Software
 
+### DevTools
+
+DevTools is a set of web developer tools built directly into the Google Chrome browser.
+
 ### [Jmeter](https://jmeter.apache.org/)
 
 The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
@@ -138,10 +142,6 @@ The Apache JMeter™ application is open source software, a 100% pure Java appli
 ### [Git](https://git-scm.com/)
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
-
-### DevTools
-
-DevTools is a set of web developer tools built directly into the Google Chrome browser.
 
 ### [Visual Code Studio](https://code.visualstudio.com/)
 
