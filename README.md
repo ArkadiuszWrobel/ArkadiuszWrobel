@@ -145,6 +145,10 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ### TestLink
 
+### [PicPick](https://picpick.app/pl/)
+
+PicPick - All-in-one Graphic Design, Best Screen Capture and Recording Software, Image Editor, Color Picker, Pixel Ruler and More.
+
 ### [ShareX](https://getsharex.com/)
 
 ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
