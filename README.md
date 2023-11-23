@@ -5,13 +5,13 @@
 -----
 ## ◼️ [ABOUT ME](#about-me) 
 ## ◼️ [TEST CASES](#test-cases)
-## ◼️ [~~BUG REPORTS~~ //UNDER CONSTRUCTION\\](#bug-reports)
-## ◼️ [~~TEST REPORTS~~ !UNDER CONSTRUCTION!](#test-reports)
+## ◼️ [BUG REPORTS](#bug-reports)
+## ◼️ [TEST REPORTS](#test-reports)
 ## ◼️ [COURSES](#courses)
 ## ◼️ [SOFT SKILLS](#soft-skills)
 ## ◼️ [TECH SKILLS](#tech-skills)
 ## ◼️ [TOOLS AND SOFTWARE](#tools-and-software)
-## ◼️ [~~SQL TASKS EXAMPLES~~ //UNDER CONSTRUCTION\\](#sql-tasks-examples)
+## ◼️ [SQL TASKS EXAMPLES](#sql-tasks-examples)
 
 
 -----
