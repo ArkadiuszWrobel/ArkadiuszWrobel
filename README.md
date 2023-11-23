@@ -45,15 +45,15 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 -----
 
-## Bug reports
+## Bug reports //UNDER CONSTRUCTION\\
 
-### **Under construction**
+### There will be data.
 
 -----
 
-## Test reports
+## Test reports //UNDER CONSTRUCTION\\
 
-### **Under construction**
+### There will be data.
 
 -----
 
@@ -170,8 +170,8 @@ PerfectPixel allows developers and markup designers put a semi-transparent image
 
 -----
 
-## SQL Tasks Examples
+## SQL Tasks Examples //UNDER CONSTRUCTION\\
 
-### **Under construction**
+### There will be data.
 
 -----
