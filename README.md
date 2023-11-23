@@ -141,7 +141,9 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ### JIRA & Xray
 
-### qTEST
+### [qTEST](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager)
+
+qTest Manager is an agile test case management tool that tracks, organizes, and reports testing across the enterprise—no matter your testing strategy.
 
 ### [TestLink](https://testlink.testerzy.pl/login.php)
 
