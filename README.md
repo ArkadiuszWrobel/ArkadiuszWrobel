@@ -12,9 +12,9 @@
 ## ◼️ [TECH SKILLS](#tech-skills)
 ## ◼️ [TOOLS](#tools)
 ## ◼️ [SQL TASKS EXAMPLES](#sql-tasks-examples)
+
+
 -----
-
-
 ## About me
 Hello there! 👋 I'm Arkadiusz Wróbel, and I've been immersed in the world of computers and IT since my early years. Exploring the intricacies of computers, software, and applications has always been my passion. What started as a love for gaming gradually evolved into a fascination with modding and testing.
 Instead of just playing games, I found myself dedicating more time to testing and enhancing mod-packs I created. This shift sparked a realization that my true joy lies in the process of improving and refining, rather than solely playing.
@@ -39,9 +39,15 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 ## Test cases
 
+-----
+
 ## Bug reports
 
+-----
+
 ## Test reports
+
+-----
 
 ## Courses
 
@@ -60,14 +66,20 @@ The course introduced numerous valuable tools that enhance a tester's work. It t
 
 ![UC-3a2ddd87-096f-4c2b-92a7-8a01dd5ff474](https://github.com/ArkadiuszWrobel/ArkadiuszWrobel/assets/151845080/426d4428-ae95-4ddd-8d3c-2b5cbd2542f1)
 
-
-
+-----
 
 ## Soft Skills
 
+-----
+
 ## Tech Skills
+
+-----
 
 ## Tools
 
+-----
+
 ## SQL Tasks Examples
 
+-----
