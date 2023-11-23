@@ -70,6 +70,24 @@ The course introduced numerous valuable tools that enhance a tester's work. It t
 
 ## Soft Skills
 
+### Language Proficiency:
+
+English (B1/B2): I possess a solid command of the English language, operating comfortably at the B1/B2 level. This proficiency enables effective communication.
+Polish (Native): Being a native Polish speaker, I have a deep understanding of the language, allowing me to articulate thoughts and ideas with precision and clarity.
+
+### Analytical and Logical Thinking:
+
+My approach to problem-solving is grounded in analytical and logical thinking. I excel at breaking down complex issues into manageable components, systematically analyzing each aspect to derive well-considered solutions. This skill set proves valuable in navigating challenges and making informed decisions.
+
+### Fast Learning:
+I am characterized by a rapid learning curve, enabling me to swiftly grasp new concepts, tools, and technologies. This adaptability is a key asset in dynamic work environments, allowing me to stay current with industry trends and swiftly contribute to evolving projects.
+
+### Team Work:
+Collaboration is a cornerstone of my work ethos. I thrive in team environments, valuing the diverse perspectives that contribute to collective success. My communication skills and openness to collaboration foster a positive team dynamic, where ideas flow freely, and goals are achieved through collective effort.
+
+### Work Under Pressure:
+I am adept at handling tasks under pressure, maintaining composure and efficiency even in demanding situations. Whether facing tight deadlines or navigating high-stakes projects, I approach challenges with a calm and focused mindset, ensuring the delivery of quality results.
+
 -----
 
 ## Tech Skills
