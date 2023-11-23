@@ -4,14 +4,14 @@
 
 -----
 ## ◼️ [ABOUT ME](#about-me) 
-## ◼️ [TEST CASES](#test-cases)
-## ◼️ [BUG REPORTS](#bug-reports)
-## ◼️ [TEST REPORTS](#test-reports)
+## ◼️ [TEST CASES //UNDER CONSTRUCTION\\](#test-cases)
+## ◼️ [BUG REPORTS //UNDER CONSTRUCTION\\](#bug-reports)
+## ◼️ [TEST REPORTS //UNDER CONSTRUCTION\\](#test-reports)
 ## ◼️ [COURSES](#courses)
 ## ◼️ [SOFT SKILLS](#soft-skills)
 ## ◼️ [TECH SKILLS](#tech-skills)
-## ◼️ [TOOLS](#tools)
-## ◼️ [SQL TASKS EXAMPLES](#sql-tasks-examples)
+## ◼️ [TOOLS //UNDER CONSTRUCTION\\](#tools)
+## ◼️ [SQL TASKS EXAMPLES //UNDER CONSTRUCTION\\](#sql-tasks-examples)
 
 
 -----
