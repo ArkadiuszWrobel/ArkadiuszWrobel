@@ -3,64 +3,17 @@
 ## TABLE OF CONTENTS
 
 -----
-## ◼️ [About me](#about-me)
+## ◼️ [ABOUT ME](#about-me)
 ## ◼️ [Test cases](#test-cases)
 ## ◼️ [Bug reports](#bug-reports)
 ## ◼️ [Test reports](#test-reports)
 -----
 
 
-## About me
+## <a name="aboutme">:mag_right: ABOUT ME</a>
 
 ## Test cases
 
 ## Bug reports
-h
-h
-h
-h
-h
-
-h
-h
-h
-h
-
-h
-h
-h
-h
-h
-h
-h
-h
-h
-h
-
-h
-h
-h
-h
-
-h
-h
-h
-h
-hh
-h
-h
-h
-h
-
-h
-h
-h
-h
-
-h
-h
-h
-h
-h
 
 ## Test reports
