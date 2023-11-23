@@ -83,7 +83,7 @@ The course introduced numerous valuable tools that enhance a tester's work. It t
 
 ### Language Proficiency:
 
-English (B1/B2): I possess a solid command of the English language, operating comfortably at the B1/B2 level. This proficiency enables effective communication.
+English (B1/B2): I operate at the B1/B2 level. Some things needs improvment which I am working on.
 
 Polish (Native): Being a native Polish speaker, I have a deep understanding of the language, allowing me to articulate thoughts and ideas with precision and clarity.
 
