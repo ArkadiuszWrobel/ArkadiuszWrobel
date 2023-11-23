@@ -145,7 +145,9 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ### TestLink
 
-### Slack
+### [Slack](https://slack.com/)
+
+Slack is a way to communicate with your team. It's fast, organized, and more secure than email.
 
 ### [PerfectPixel - browser extension](https://chromewebstore.google.com/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=pl&pli=1)
 
