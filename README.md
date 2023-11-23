@@ -131,47 +131,47 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ## Tools and Software
 
-### Jmeter:
+### Jmeter
 
-### [Git](https://git-scm.com/):
+### [Git](https://git-scm.com/)
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
 
-### DevTools:
+### DevTools
 
 DevTools is a set of web developer tools built directly into the Google Chrome browser.
 
-### [Visual Code Studio](https://code.visualstudio.com/):
+### [Visual Code Studio](https://code.visualstudio.com/)
 
 Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-### [JIRA](https://www.google.com/search?client=firefox-b-d&q=jira):
+### [JIRA](https://www.google.com/search?client=firefox-b-d&q=jira)
 
 Jira Software is the only tool with the flexibility to map around any team structure, workflow, or level of agile maturity.
 
 Xray is native Test Management. Built for every member of your team to plan, test, track and release great software.
 
-### [qTEST](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager):
+### [qTEST](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager)
 
 qTest Manager is an agile test case management tool that tracks, organizes, and reports testing across the enterprise—no matter your testing strategy.
 
-### [TestLink](https://testlink.testerzy.pl/login.php):
+### [TestLink](https://testlink.testerzy.pl/login.php)
 
 TestLink is a web based test management and test execution system. It enables quality assurance teams to create and manage their test cases as well as to organize them into test plans. These test plans allow team members to execute test cases and track test results dynamically.
 
-### [PicPick](https://picpick.app/pl/):
+### [PicPick](https://picpick.app/pl/)
 
 PicPick - All-in-one Graphic Design, Best Screen Capture and Recording Software, Image Editor, Color Picker, Pixel Ruler and More.
 
-### [ShareX](https://getsharex.com/):
+### [ShareX](https://getsharex.com/)
 
 ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
 
-### [Slack](https://slack.com/):
+### [Slack](https://slack.com/)
 
 Slack is a way to communicate with your team. It's fast, organized, and more secure than email.
 
-### [PerfectPixel - browser extension](https://chromewebstore.google.com/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=pl&pli=1):
+### [PerfectPixel - browser extension](https://chromewebstore.google.com/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=pl&pli=1)
 
 PerfectPixel allows developers and markup designers put a semi-transparent image overlay over the top of the developed HTML and perform pixel perfect comparison between them.
 
