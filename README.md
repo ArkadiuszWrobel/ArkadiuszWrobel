@@ -145,6 +145,10 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ### TestLink
 
+### [ShareX](https://getsharex.com/)
+
+ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
+
 ### [Slack](https://slack.com/)
 
 Slack is a way to communicate with your team. It's fast, organized, and more secure than email.
