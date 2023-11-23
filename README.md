@@ -135,7 +135,7 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 DevTools is a set of web developer tools built directly into the Google Chrome browser.
 
-### [Jmeter](https://jmeter.apache.org/)
+### + [Jmeter](https://jmeter.apache.org/)
 
 The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
 
