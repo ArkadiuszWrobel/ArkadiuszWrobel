@@ -8,6 +8,10 @@
 ## ◼️ [BUG REPORTS](#bug-reports)
 ## ◼️ [TEST REPORTS](#test-reports)
 ## ◼️ [COURSES](#courses)
+## ◼️ [SOFT SKILLS](#soft-skills)
+## ◼️ [TECH SKILLS](#tech-skills)
+## ◼️ [TOOLS](#tools)
+## ◼️ [SQL TASKS EXAMPLES](#sql-tasks-examples)
 -----
 
 
@@ -21,4 +25,11 @@
 
 ## Courses
 
-⚪ ABOUT ME ⚪ PROJECTS ⚪ TEST CASES example ⚪ BUG REPORT example ⚪ TEST REPORT example ⚪ JIRA - BUG REPORT example ⚪ SQL tasks ⚪ COURSES ⚪ TOOLS ⚪ TECH SKILLS ⚪ SOFT SKILLS ⚪ TOP 5 GALLUP STRENGHTS ⚪ TECH EVENTS ⚪ THE CODDING APPS - training ⚪ BOOKS ABOUT TESTING ⚪ RECOMMENDED BLOGS ABOUT TESTING ⚪ GROUPS ABOUT TESTING ON FACEBOOK ⚪
+## Soft Skills
+
+## Tech Skills
+
+## Tools
+
+## SQL Tasks Examples
+
