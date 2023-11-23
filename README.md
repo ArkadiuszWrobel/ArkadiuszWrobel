@@ -39,7 +39,7 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 ## Test cases
 
-[Test cases based on explorary testing](https://docs.google.com/spreadsheets/d/17T1gKrzDIy6IL1UfgpAtTlJFbHgvFgj3tvFGZsRoFaw/edit?usp=sharing)
+### [Test cases based on explorary testing](https://docs.google.com/spreadsheets/d/17T1gKrzDIy6IL1UfgpAtTlJFbHgvFgj3tvFGZsRoFaw/edit?usp=sharing)
 ### **Under construction**
 
 -----
