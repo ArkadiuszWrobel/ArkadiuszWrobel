@@ -143,7 +143,9 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ### qTEST
 
-### TestLink
+### [TestLink](https://testlink.testerzy.pl/login.php)
+
+TestLink is a web based test management and test execution system. It enables quality assurance teams to create and manage their test cases as well as to organize them into test plans. These test plans allow team members to execute test cases and track test results dynamically.
 
 ### [PicPick](https://picpick.app/pl/)
 
