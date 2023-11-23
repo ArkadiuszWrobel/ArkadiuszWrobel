@@ -145,7 +145,7 @@ The Apache JMeter™ application is open source software, a 100% pure Java appli
 ### [Git](https://git-scm.com/)
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
 
-### [Visual Code Studio](https://code.visualstudio.com/)
+### [Visual Studio Code](https://code.visualstudio.com/)
 Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
 ### [JIRA](https://www.google.com/search?client=firefox-b-d&q=jira)
