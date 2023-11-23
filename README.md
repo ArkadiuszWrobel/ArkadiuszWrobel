@@ -93,6 +93,34 @@ I am adept at handling tasks under pressure, maintaining composure and efficienc
 
 ## Tech Skills
 
+### Writing Test Cases:
+
+Proficient in the art of crafting comprehensive test cases. I ensure that each test scenario is meticulously designed to validate software functionality.
+
+### Reporting Bugs:
+
+Experienced in identifying and documenting software defects with precision. I use established bug reporting methodologies to communicate issues effectively and facilitating clear understanding.
+
+### Creating Documentation:
+
+Adept at creating detailed documentation that serves as a valuable resource throughout the software development lifecycle. This includes test documentation, user guides, and other relevant materials, contributing to the overall clarity and transparency of the project.
+
+### Knowledge of ISTQB - Intermediate Level:
+
+Possess intermediate-level knowledge of the International Software Testing Qualifications Board (ISTQB) principles and practices. This knowledge base enhances my ability to implement standardized testing methodologies and adhere to industry best practices.
+
+### Basics of SQL:
+
+Familiar with the fundamentals of Structured Query Language (SQL). This knowledge enables me to interact with databases, retrieve relevant data for testing, and ensure data integrity within the software applications.
+
+### Basics of HTML, CSS:
+
+Proficient in the basics of HyperText Markup Language (HTML) and Cascading Style Sheets (CSS). This knowledge allows me to navigate and understand front-end elements, contributing to effective collaboration with development teams.
+
+### Basics of JavaScript:
+
+Acquainted with the fundamentals of JavaScript. This foundational understanding aids in the comprehension of dynamic elements within web applications, facilitating more comprehensive testing processes.
+
 -----
 
 ## Tools
