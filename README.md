@@ -4,7 +4,7 @@
 
 -----
 ## ◼️ [ABOUT ME](#about-me) 
-## ◼️ [TEST CASES //UNDER CONSTRUCTION\\](#test-cases)
+## ◼️ [TEST CASES](#test-cases)
 ## ◼️ [~~BUG REPORTS~~ //UNDER CONSTRUCTION\\](#bug-reports)
 ## ◼️ [~~TEST REPORTS~~ !UNDER CONSTRUCTION!](#test-reports)
 ## ◼️ [COURSES](#courses)
