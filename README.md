@@ -10,7 +10,7 @@
 ## ◼️ [COURSES](#courses)
 ## ◼️ [SOFT SKILLS](#soft-skills)
 ## ◼️ [TECH SKILLS](#tech-skills)
-## ◼️ [TOOLS AND SOFTWARE](#tools)
+## ◼️ [TOOLS AND SOFTWARE](#tools-and-software)
 ## ◼️ [SQL TASKS EXAMPLES //UNDER CONSTRUCTION\\](#sql-tasks-examples)
 
 
