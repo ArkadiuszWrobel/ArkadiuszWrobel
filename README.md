@@ -39,13 +39,19 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 ## Test cases
 
+### **Under construction**
+
 -----
 
 ## Bug reports
 
+### **Under construction**
+
 -----
 
 ## Test reports
+
+### **Under construction**
 
 -----
 
@@ -125,8 +131,12 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ## Tools
 
+### **Under construction**
+
 -----
 
 ## SQL Tasks Examples
+
+### **Under construction**
 
 -----
