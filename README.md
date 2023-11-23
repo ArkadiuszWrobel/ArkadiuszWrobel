@@ -139,7 +139,11 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ### Visual Code Studio
 
-### JIRA & Xray
+### [JIRA](https://www.atlassian.com/pl/software/jira) & [Xray](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud)
+
+Jira Software is the only tool with the flexibility to map around any team structure, workflow, or level of agile maturity.
+
+Xray is native Test Management. Built for every member of your team to plan, test, track and release great software.
 
 ### [qTEST](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager)
 
