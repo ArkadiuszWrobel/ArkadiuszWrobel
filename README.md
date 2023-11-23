@@ -45,6 +45,24 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 ## Courses
 
+### [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
+
+This course introduced me to the world of software testing, teaching the basics of creating test cases and scenarios, as well as generating defect reports.
+It also provided knowledge of fundamental concepts and best practices related to software testing.
+
+![UC-45de196a-717b-4dec-a105-6187902de57a](https://github.com/ArkadiuszWrobel/ArkadiuszWrobel/assets/151845080/508f0103-7f25-4747-8791-35cda0a544cd)
+
+
+### [Testowanie oprogramowania w praktyce by Rafał Podraza](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/)
+
+This course reinforced the skills acquired in the first course and taught many additional abilities such as API testing, basic JavaScript, HTML, and CSS. As a result, I also learned to use tools like Postman, Jira, and other testing platforms such as TestLink.
+The course introduced numerous valuable tools that enhance a tester's work. It taught me how to write basic automated tests and demonstrated the vast learning opportunities within the field of software testing.
+
+![UC-3a2ddd87-096f-4c2b-92a7-8a01dd5ff474](https://github.com/ArkadiuszWrobel/ArkadiuszWrobel/assets/151845080/426d4428-ae95-4ddd-8d3c-2b5cbd2542f1)
+
+
+
+
 ## Soft Skills
 
 ## Tech Skills
