@@ -4,7 +4,7 @@
 
 -----
 ## ◼️ [ABOUT ME](#about-me) 
-## ◼️ [TEST CASES](#test-cases-//UNDER CONSTRUCTION\\)
+## ◼️ [TEST CASES](#test-cases)
 ## ◼️ [BUG REPORTS](#bug-reports)
 ## ◼️ [TEST REPORTS](#test-reports)
 ## ◼️ [COURSES](#courses)
@@ -37,7 +37,8 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 -----
 
-## Test cases  //UNDER CONSTRUCTION\\
+## Test cases
+//UNDER CONSTRUCTION\\
 
 ### ▶️ [Test cases based on explorary testing](https://docs.google.com/spreadsheets/d/17T1gKrzDIy6IL1UfgpAtTlJFbHgvFgj3tvFGZsRoFaw/edit?usp=sharing)
 
@@ -45,13 +46,15 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 -----
 
-## Bug reports //UNDER CONSTRUCTION\\
+## Bug reports
+//UNDER CONSTRUCTION\\
 
 ### There will be data.
 
 -----
 
-## Test reports //UNDER CONSTRUCTION\\
+## Test reports
+//UNDER CONSTRUCTION\\
 
 ### There will be data.
 
@@ -170,7 +173,8 @@ PerfectPixel allows developers and markup designers put a semi-transparent image
 
 -----
 
-## SQL Tasks Examples //UNDER CONSTRUCTION\\
+## SQL Tasks Examples
+//UNDER CONSTRUCTION\\
 
 ### There will be data.
 
