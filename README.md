@@ -4,9 +4,10 @@
 
 -----
 ## ◼️ [ABOUT ME](#about-me)
-## ◼️ [Test cases](#test-cases)
-## ◼️ [Bug reports](#bug-reports)
-## ◼️ [Test reports](#test-reports)
+## ◼️ [TEST CASES](#test-cases)
+## ◼️ [BUG REPORTS](#bug-reports)
+## ◼️ [TEST REPORTS](#test-reports)
+## ◼️ [COURSES](#courses)
 -----
 
 
@@ -17,3 +18,7 @@
 ## Bug reports
 
 ## Test reports
+
+## Courses
+
+⚪ ABOUT ME ⚪ PROJECTS ⚪ TEST CASES example ⚪ BUG REPORT example ⚪ TEST REPORT example ⚪ JIRA - BUG REPORT example ⚪ SQL tasks ⚪ COURSES ⚪ TOOLS ⚪ TECH SKILLS ⚪ SOFT SKILLS ⚪ TOP 5 GALLUP STRENGHTS ⚪ TECH EVENTS ⚪ THE CODDING APPS - training ⚪ BOOKS ABOUT TESTING ⚪ RECOMMENDED BLOGS ABOUT TESTING ⚪ GROUPS ABOUT TESTING ON FACEBOOK ⚪
