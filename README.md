@@ -10,7 +10,7 @@
 -----
 
 
-## <a name="aboutme">:mag_right: ABOUT ME</a>
+## About me
 
 ## Test cases
 
