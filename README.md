@@ -10,7 +10,7 @@
 ## ◼️ [COURSES](#courses)
 ## ◼️ [SOFT SKILLS](#soft-skills)
 ## ◼️ [TECH SKILLS](#tech-skills)
-## ◼️ [TOOLS //UNDER CONSTRUCTION\\](#tools)
+## ◼️ [TOOLS AND SOFTWARE //UNDER CONSTRUCTION\\](#tools)
 ## ◼️ [SQL TASKS EXAMPLES //UNDER CONSTRUCTION\\](#sql-tasks-examples)
 
 
@@ -129,9 +129,27 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 -----
 
-## Tools
+## Tools and Software
 
-### **Under construction**
+### Jmeter:
+
+### Git
+
+### DevTools
+
+### Visual Code Studio
+
+### JIRA & Xray
+
+### qTEST
+
+### TestLink
+
+### Slack
+
+### [PerfectPixel - browser extension](https://chromewebstore.google.com/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=pl&pli=1)
+
+PerfectPixel allows developers and markup designers put a semi-transparent image overlay over the top of the developed HTML and perform pixel perfect comparison between them.
 
 -----
 
