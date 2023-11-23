@@ -12,8 +12,8 @@
 
 ## About me
 
-## [Test cases]
+## Test cases
 
-## [Bug reports]
+## Bug reports
 
-## [Test reports]
+## Test reports
