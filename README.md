@@ -139,7 +139,7 @@ Acquainted with the fundamentals of JavaScript. This foundational understanding 
 
 ### Visual Code Studio
 
-### [JIRA]([https://www.atlassian.com/software/jira](https://www.google.com/search?q=jira+atlassian&client=firefox-b-d&sca_esv=584864956&sxsrf=AM9HkKntehD2XbV3j0Y76LFfik_gsrquVg%3A1700749741836&ei=rWFfZcStMvelkPIPwLyKuAE&udm=&ved=0ahUKEwiEuNrBqtqCAxX3EkQIHUCeAhcQ4dUDCA8&uact=5&oq=jira+atlassian&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmppcmEgYXRsYXNzaWFuMgUQABiABDIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSNEMUJEBWIgMcAF4AZABAJgB4gGgAaENqgEFMC4yLja4AQPIAQD4AQHCAgoQABhHGNYEGLADwgINEAAYgAQYigUYsAMYQ8ICDhAAGOQCGNYEGLAD2AEBwgIZEC4YgAQYigUYxwEY0QMYyAMYsAMYQ9gBAsICEBAAGIAEGIoFGLEDGIMBGEPCAgoQABiABBiKBRhDwgIIEAAYFhgeGArCAgsQABgWGB4Y8QQYCsICCRAAGBYYHhjxBOIDBBgAIEGIBgGQBhG6BgYIARABGAm6BgYIAhABGAg&sclient=gws-wiz-serp)) & [Xray](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud)
+### [JIRA](https://www.google.com/search?client=firefox-b-d&q=jira)
 
 Jira Software is the only tool with the flexibility to map around any team structure, workflow, or level of agile maturity.
 
