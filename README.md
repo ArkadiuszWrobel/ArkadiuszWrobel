@@ -40,7 +40,6 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 -----
 
 ## Test cases
-//UNDER CONSTRUCTION\\
 
 ### ▶️ [Test cases based on Explorary Testing](https://docs.google.com/spreadsheets/d/17T1gKrzDIy6IL1UfgpAtTlJFbHgvFgj3tvFGZsRoFaw/edit?usp=sharing)
 
