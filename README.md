@@ -58,6 +58,14 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 -----
 
+## SQL Tasks Examples
+//UNDER CONSTRUCTION\\
+### ▶️ [Basic SQL Tasks](https://github.com/ArkadiuszWrobel/Portfolio/blob/main/SQL%20Basic%20Tasks.md)
+
+### There will be data.
+
+-----
+
 ## Courses
 
 ### [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
@@ -168,13 +176,5 @@ Slack is a way to communicate with your team. It's fast, organized, and more sec
 
 ### 🔗 [PerfectPixel - browser extension](https://chromewebstore.google.com/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=pl&pli=1)
 PerfectPixel allows developers and markup designers put a semi-transparent image overlay over the top of the developed HTML and perform pixel perfect comparison between them.
-
------
-
-## SQL Tasks Examples
-//UNDER CONSTRUCTION\\
-### ▶️ [Basic SQL Tasks](https://github.com/ArkadiuszWrobel/Portfolio/blob/main/SQL%20Basic%20Tasks.md)
-
-### There will be data.
 
 -----
