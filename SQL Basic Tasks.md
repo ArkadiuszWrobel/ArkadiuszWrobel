@@ -119,7 +119,7 @@ WHERE City LIKE `[acs]%`;
 ## Join Products and Categories tables.
 
 ### Products table:
-![p1](https://github.com/ArkadiuszWrobel/Portfolio/assets/151845080/f4f113da-aa6f-4370-beab-d52c28cea475)
+![p](https://github.com/ArkadiuszWrobel/Portfolio/assets/151845080/6c3877fa-738c-4534-9d2a-1457147422bc)
 
 ### Categories table:
 ![p2](https://github.com/ArkadiuszWrobel/Portfolio/assets/151845080/41fe6d23-c1b1-499a-97bf-11a3a7c48909)
