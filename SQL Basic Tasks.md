@@ -14,7 +14,7 @@ SELECT DISTINCT Country FROM Customers;
 ## Select all records where where City is NOT "Berlin".
 
 ```SELECT * FROM Customers
-WHERE NOT City = `Berlin`;0
+WHERE NOT City = `Berlin`;
 ```
 
 ## 
