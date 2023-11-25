@@ -8,7 +8,7 @@
 ## ◼️ [ABOUT ME](#about-me) 
 ## ◼️ [TEST CASES](#test-cases-examples)
 ## ◼️ [BUG REPORTS](#bug-reports-examples)
-## ◼️ [SQL TASKS EXAMPLES](#sql-tasks-examples)
+## ◼️ [SQL TASKS](#sql-tasks-examples)
 ## ◼️ [COURSES](#courses)
 ## ◼️ [SOFT SKILLS](#soft-skills)
 ## ◼️ [TECH SKILLS](#tech-skills)
