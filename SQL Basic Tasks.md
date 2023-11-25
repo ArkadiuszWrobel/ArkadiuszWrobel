@@ -63,7 +63,21 @@ SELECT * FROM Customers;
 ![tab](https://github.com/ArkadiuszWrobel/Portfolio/assets/151845080/0d95f39b-1037-4a37-ae16-3838242c4ef5)
 ### Then we create new record using data above.
 ```
-
+INSERT INTO Customers (
+    CustomerName,
+    ContactName,
+    Adress,
+    City,
+    PostalCode,
+    Country)
+    VALUES (
+        `David Tester La Ventura`,
+        `David Tester`,
+        `Mataderos 12`,
+        `Barcelona`,
+        `41101`,
+        `Spain`
+    );
 ```
 
 ## 
