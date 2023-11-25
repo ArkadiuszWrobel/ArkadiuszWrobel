@@ -32,16 +32,19 @@ WHERE City = 'Berlin'
 AND PostalCode = 12209;
 ```
 
-## 
+## Select all records from Customers table where the City column has the value 'Berlin' or 'London'.
 
 ```
-
+SELECT * FROM Customers
+WHERE City = 'Berlin'
+OR City = 'London';
 ```
 
-## 
+## Select all records from the Customers table, sort the result reversed alphabetically by the column City.
 
 ```
-
+SELECT * FROM Customers
+ORDER BY City DESC;
 ```
 
 ## 
