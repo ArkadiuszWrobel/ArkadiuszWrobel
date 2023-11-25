@@ -8,11 +8,11 @@
 ## ◼️ [ABOUT ME](#about-me) 
 ## ◼️ [TEST CASES](#test-cases-examples)
 ## ◼️ [BUG REPORTS](#bug-reports-examples)
+## ◼️ [SQL TASKS EXAMPLES](#sql-tasks-examples)
 ## ◼️ [COURSES](#courses)
 ## ◼️ [SOFT SKILLS](#soft-skills)
 ## ◼️ [TECH SKILLS](#tech-skills)
 ## ◼️ [TOOLS AND SOFTWARE](#tools-and-software)
-## ◼️ [SQL TASKS EXAMPLES](#sql-tasks-examples)
 
 
 -----
@@ -61,8 +61,6 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 ## SQL Tasks Examples
 //UNDER CONSTRUCTION\\
 ### ▶️ [Basic SQL Tasks](https://github.com/ArkadiuszWrobel/Portfolio/blob/main/SQL%20Basic%20Tasks.md)
-
-### There will be data.
 
 -----
 
