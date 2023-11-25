@@ -7,7 +7,7 @@
 -----
 ## ◼️ [ABOUT ME](#about-me) 
 ## ◼️ [TEST CASES](#test-cases-examples)
-## ◼️ [BUG REPORTS](#bug-reports)
+## ◼️ [BUG REPORTS](#bug-reports-examples)
 ## ◼️ [TEST REPORTS](#test-reports)
 ## ◼️ [COURSES](#courses)
 ## ◼️ [SOFT SKILLS](#soft-skills)
