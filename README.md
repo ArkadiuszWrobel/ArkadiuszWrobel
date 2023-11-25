@@ -6,7 +6,7 @@
 
 -----
 ## ◼️ [ABOUT ME](#about-me) 
-## ◼️ [TEST CASES](#test-cases)
+## ◼️ [TEST CASES](#test-cases-examples)
 ## ◼️ [BUG REPORTS](#bug-reports)
 ## ◼️ [TEST REPORTS](#test-reports)
 ## ◼️ [COURSES](#courses)
@@ -39,7 +39,7 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 -----
 
-## Test cases
+## Test cases examples
 
 ### ▶️ [Test cases based on Explorary Testing](https://docs.google.com/spreadsheets/d/17T1gKrzDIy6IL1UfgpAtTlJFbHgvFgj3tvFGZsRoFaw/edit?usp=sharing)
 
