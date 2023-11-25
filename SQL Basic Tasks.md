@@ -53,8 +53,15 @@ SELECT * FROM Customers
 ORDER BY City DESC;
 ```
 
-## 
+## Insert a new record in the Customers table.
 
+### First we need to check what are the components of Customers table.
+```
+SELECT * FROM Customers;
+```
+### Results:
+![tab](https://github.com/ArkadiuszWrobel/Portfolio/assets/151845080/0d95f39b-1037-4a37-ae16-3838242c4ef5)
+### Then we create new record using data above.
 ```
 
 ```
