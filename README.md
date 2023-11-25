@@ -51,7 +51,7 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 //UNDER CONSTRUCTION\\
 
 ### ▶️ [Defect Report: B1.3_D1](https://docs.google.com/document/d/1--spdQwxKUUSBbImkTZ6KreusLOZJa81xmN2xfekIao/edit?usp=sharing)
-
+### ▶️ [Defect Report: B1.3_D1.1](https://docs.google.com/document/d/1edFyomQTwF105PANLI6TEy5d2TU4KXbai7UFLb5Wmt0/edit?usp=sharing)
 
 -----
 
