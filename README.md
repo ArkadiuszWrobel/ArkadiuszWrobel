@@ -41,11 +41,11 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 ## Test cases examples
 
-### Test cases based on User Stories
+### Test cases based on User Stories:
 
 ### ▶️ [A1.Shopping Cart Tests](https://docs.google.com/spreadsheets/d/1u42zYeMX2P_tdy27vbCS1C5BjmKALziP7NEVPJLrtEE/edit?usp=sharing)
 
-### Test cases based on Explorary Testing
+### Test cases based on Explorary Testing:
 
 ### ▶️ [B1.Contact Form Test](https://docs.google.com/spreadsheets/d/17T1gKrzDIy6IL1UfgpAtTlJFbHgvFgj3tvFGZsRoFaw/edit?usp=sharing)
 
