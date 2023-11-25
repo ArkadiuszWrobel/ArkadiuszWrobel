@@ -94,3 +94,38 @@ WHERE Country = `Norway`;
 DELETE FROM Customers
 WHERE Country = `Norway`;
 ```
+
+## Select all records from Customers table where the value of the City column starts with letter "a" and ends with the letter "b".
+
+```
+SELECT * FROM Customers
+WHERE City LIKE `a%b`;
+```
+
+## Select all records from Customers table where the value of the City column does NOT start with the letter "a".
+
+```
+SELECT * FROM Customers
+WHERE City NOT LIKE `a%`;
+```
+
+## Select all records from Customers table where the first letter of the City is an "a" or a "c" or an "s".
+
+```
+SELECT FROM Customers
+WHERE City LIKE `[acs]%`;
+```
+
+## Join Products and Categories tables.
+
+### Products table:
+![p1](https://github.com/ArkadiuszWrobel/Portfolio/assets/151845080/f4f113da-aa6f-4370-beab-d52c28cea475)
+
+### Categories table:
+![p2](https://github.com/ArkadiuszWrobel/Portfolio/assets/151845080/41fe6d23-c1b1-499a-97bf-11a3a7c48909)
+
+```
+SELECT ProductID, ProductName, Price, CategoryName, Description
+FROM Products
+INNER JOIN Categories ON Products.CategoryID = Categories.CategoryID;
+```
