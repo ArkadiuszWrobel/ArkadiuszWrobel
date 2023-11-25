@@ -173,6 +173,7 @@ PerfectPixel allows developers and markup designers put a semi-transparent image
 
 ## SQL Tasks Examples
 //UNDER CONSTRUCTION\\
+### [Basic SQL Tasks](https://github.com/ArkadiuszWrobel/Portfolio/blob/main/SQL%20Basic%20Tasks.md)
 
 ### There will be data.
 
