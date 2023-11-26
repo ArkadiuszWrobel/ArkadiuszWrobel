@@ -4,7 +4,7 @@
 ### Environment setup
 Setting up variables like baseURL, trello token and key.
 
-![env](https://github.com/ArkadiuszWrobel/Portfolio/assets/151845080/8c4e7cbb-5e80-4fa0-b7b7-740e5b31a61e)
+![285656220-8c4e7cbb-5e80-4fa0-b7b7-740e5b31a61e](https://github.com/ArkadiuszWrobel/Portfolio/assets/151845080/07e26652-d143-4eab-b251-7141ad34ceb8)
 
 ### Using method GET to get boards list for my account. Response Code 200 means that we succeded.
 
