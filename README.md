@@ -99,10 +99,10 @@ My approach to problem-solving is grounded in analytical and logical thinking. I
 I am characterized by a rapid learning curve, enabling me to swiftly grasp new concepts, tools, and technologies. This adaptability is a key asset in dynamic work environments, allowing me to stay current with industry trends and swiftly contribute to evolving projects.
 
 ### Team Work:
-Collaboration is a cornerstone of my work ethos. I thrive in team environments, valuing the diverse perspectives that contribute to collective success. My communication skills and openness to collaboration foster a positive team dynamic, where ideas flow freely, and goals are achieved through collective effort.
+Collaboration is a cornerstone of my work ethos. My communication skills and openness to collaboration foster a positive team dynamic, where ideas flow freely, and goals are achieved through collective effort.
 
 ### Work Under Pressure:
-I am adept at handling tasks under pressure, maintaining composure and efficiency even in demanding situations. Whether facing tight deadlines or navigating high-stakes projects, I approach challenges with a calm and focused mindset, ensuring the delivery of quality results.
+I am adept at handling tasks under pressure, maintaining composure and efficiency even in demanding situations.
 
 -----
 
