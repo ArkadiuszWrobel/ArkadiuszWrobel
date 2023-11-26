@@ -9,7 +9,7 @@
 ## ◼️ [TEST CASES](#test-cases-examples)
 ## ◼️ [BUG REPORTS](#bug-reports-examples)
 ## ◼️ [SQL TASKS](#sql-tasks-examples)
-## ◼️ [POSTMAN TESTS](#postman-tests-examples)
+## ◼️ [POSTMAN TASKS](#postman-tests-examples)
 ## ◼️ [COURSES](#courses)
 ## ◼️ [SOFT SKILLS](#soft-skills)
 ## ◼️ [TECH SKILLS](#tech-skills)
