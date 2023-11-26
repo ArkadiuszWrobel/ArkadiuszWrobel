@@ -67,7 +67,7 @@ Collaboration and Contribution: I'm open to collaborating with like-minded indiv
 
 ## Postman Tests Examples
 
-### ▶️ [Basic API Tests](https://github.com/ArkadiuszWrobel/Portfolio/blob/main/Postman%20Basics.md)
+### ▶️ [Basic API Testing](https://github.com/ArkadiuszWrobel/Portfolio/blob/main/Postman%20Basics.md)
 
 -----
 
